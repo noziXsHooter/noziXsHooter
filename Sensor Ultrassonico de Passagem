@@ -1,0 +1,29 @@
+//Incluindo biblioteca Ultrasonic.h
+#include <Ultrasonic.h>
+
+//Criando objeto ultrasonic e definindo as portas digitais
+//do Trigger - D5 - e Echo - D6
+Ultrasonic SensorUltrassonico1(D5, D6);
+
+long Microsegundos = 0;// Variável para armazenar o valor do tempo da reflexão do som refletido pelo objeto fornecido pela biblioteca do sensor
+float DistanciaemCM = 0;// Variável para armazenar o valor da distância a ser convertido por uma função da própria bilbioteca do sensor
+
+void setup() {
+ 
+   Serial.begin(9600);
+}
+
+void loop() {
+
+ //Convertendo a distância em CM e lendo o sensor
+  DistanciaemCM = SensorUltrassonico1.convert(SensorUltrassonico1.timing(), Ultrasonic::CM);
+
+  Serial.print(DistanciaemCM);
+  Serial.println(" cm");
+ 
+ if (DistanciaemCM <= 40) {// Se a distância lida pelo sensor for menor ou igual que 40 centimetros
+  Serial.println("Alarme acionado!");
+ }
+
+   delay(100);
+}
