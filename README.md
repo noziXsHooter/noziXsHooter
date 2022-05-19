@@ -6,7 +6,7 @@
 - 👾 Não estamos sós
 
 <div>
-  <a href="https://beacons.ai/noziXsHooter">
+  <a href="https://beacons.ai/noziXshooter">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=noziXsHooter&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noziXsHooter&layout=compact&langs_count=16&theme=dark"/>  
 </div>
