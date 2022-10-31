@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/noziXsHooter">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=noziXsHooter&show_icons=true&theme=dark&count_private=true"/>  
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=noziXsHooter&show_icons=true&theme=dark&count_private=true&include_all_commits"/>  
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noziXsHooter&layout=compact&theme=dark"/>
 </div>
 
