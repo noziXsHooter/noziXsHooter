@@ -7,7 +7,7 @@
 
 ## Technologies
 
-Laravel, CodeIgniter, Django, ExpressJs, Serverless, MySql, Postgrees, MongoDb, NodeJs, VueJs, NuxtJs, ReactJs, NextJs.
+Laravel, CodeIgniter, Django, ExpressJs, Serverless, MySql, Postgrees, MongoDb, NodeJs, VueJs, NuxtJs, ReactJs, NextJs, Bootstrap and TailwindCss.
 
 
 <div>
