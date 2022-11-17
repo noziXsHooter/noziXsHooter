@@ -1,9 +1,14 @@
-## Olá! Eu sou Wilson Oliveira. Também conhecido como nozix! 👍
+## Hello! I'm Wilson Oliveira. Also known as nozix! 👍
 
-- ✨ Sou entusiasta e estudante de programação
-- 👓 Apaixonado por automação de sistemas e dispositivos
-- ✡ Guiado por Deus!
-- 👾 Não estamos sós
+- ✨ I'm a backend developer and frontend enthusiastic.
+- 👓 Passionate about automation of systems and devices.
+- ✡  Guided by God!
+- 👾 We are not alone.
+
+## Technologies
+
+Laravel, CodeIgniter, Django, ExpressJs, Serverless, MySql, Postgrees, MongoDb, NodeJs, VueJs, NuxtJs, ReactJs, NextJs.
+
 
 <div>
   <a href="https://github.com/noziXsHooter">
